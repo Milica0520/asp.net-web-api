@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{426D3CF6-D33F-42A2-839E-AEA8014078C8}|UsersHomework\\UsersHomework.csproj|c:\\users\\micad\\onedrive\\desktop\\mvc.net-course\\usershomework\\usershomework\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426D3CF6-D33F-42A2-839E-AEA8014078C8}|UsersHomework\\UsersHomework.csproj|solutionrelative:usershomework\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426D3CF6-D33F-42A2-839E-AEA8014078C8}|UsersHomework\\UsersHomework.csproj|c:\\users\\micad\\onedrive\\desktop\\mvc.net-course\\usershomework\\usershomework\\base\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426D3CF6-D33F-42A2-839E-AEA8014078C8}|UsersHomework\\UsersHomework.csproj|solutionrelative:usershomework\\base\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426D3CF6-D33F-42A2-839E-AEA8014078C8}|UsersHomework\\UsersHomework.csproj|c:\\users\\micad\\onedrive\\desktop\\mvc.net-course\\usershomework\\usershomework\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426D3CF6-D33F-42A2-839E-AEA8014078C8}|UsersHomework\\UsersHomework.csproj|solutionrelative:usershomework\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426D3CF6-D33F-42A2-839E-AEA8014078C8}|UsersHomework\\UsersHomework.csproj|c:\\users\\micad\\onedrive\\desktop\\mvc.net-course\\usershomework\\usershomework\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426D3CF6-D33F-42A2-839E-AEA8014078C8}|UsersHomework\\UsersHomework.csproj|solutionrelative:usershomework\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426D3CF6-D33F-42A2-839E-AEA8014078C8}|UsersHomework\\UsersHomework.csproj|c:\\users\\micad\\onedrive\\desktop\\mvc.net-course\\usershomework\\usershomework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{426D3CF6-D33F-42A2-839E-AEA8014078C8}|UsersHomework\\UsersHomework.csproj|solutionrelative:usershomework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426D3CF6-D33F-42A2-839E-AEA8014078C8}|UsersHomework\\UsersHomework.csproj|c:\\users\\micad\\onedrive\\desktop\\mvc.net-course\\usershomework\\usershomework\\usershomework.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{426D3CF6-D33F-42A2-839E-AEA8014078C8}|UsersHomework\\UsersHomework.csproj|solutionrelative:usershomework\\usershomework.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "UsersHomework\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "UsersHomework\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:56:54.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UsersHomework\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\Models\\User.cs",
+              "RelativeToolTip": "UsersHomework\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:45:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticDB.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\Base\\StaticDB.cs",
+              "RelativeDocumentMoniker": "UsersHomework\\Base\\StaticDB.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\Base\\StaticDB.cs",
+              "RelativeToolTip": "UsersHomework\\Base\\StaticDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:44:29.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UsersHomework\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UsersHomework\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:43:11.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\appsettings.json",
+              "RelativeDocumentMoniker": "UsersHomework\\appsettings.json",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\appsettings.json",
+              "RelativeToolTip": "UsersHomework\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T19:42:29.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersHomework.http",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\UsersHomework.http",
+              "RelativeDocumentMoniker": "UsersHomework\\UsersHomework.http",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\UsersHomework.http",
+              "RelativeToolTip": "UsersHomework\\UsersHomework.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-12T19:42:26.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
