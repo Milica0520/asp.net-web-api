@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "LKczGK9kq1pBDG5bXwXysSKvBmUGWLo50x+k2MGMz9I=",
+  "Hash": "DrZZZwMFOWevlGBlHRVd2DRDUE903Z3zG1gIA2gLJqo=",
   "Source": "UsersHomework",
   "BasePath": "_content/UsersHomework",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UsersHomework\\wwwroot",
+      "Source": "UsersHomework",
+      "ContentRoot": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\UsersHomework\\UsersHomework\\wwwroot\\",
+      "BasePath": "_content/UsersHomework",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

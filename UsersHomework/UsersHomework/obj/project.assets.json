@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\UsersHomework.csproj",
+      "projectUniqueName": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\UsersHomework\\UsersHomework\\UsersHomework.csproj",
       "projectName": "UsersHomework",
-      "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\UsersHomework.csproj",
+      "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\UsersHomework\\UsersHomework\\UsersHomework.csproj",
       "packagesPath": "C:\\Users\\micad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micad\\OneDrive\\Desktop\\mvc.net-course\\UsersHomework\\UsersHomework\\obj\\",
+      "outputPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\UsersHomework\\UsersHomework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\micad\\AppData\\Roaming\\NuGet\\NuGet.Config",
