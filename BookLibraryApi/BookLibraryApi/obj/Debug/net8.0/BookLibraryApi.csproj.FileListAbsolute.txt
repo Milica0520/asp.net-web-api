@@ -56,3 +56,5 @@ C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\BookLibraryApi\Bo
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\BookLibraryApi\BookLibraryApi\obj\Debug\net8.0\BookLibraryApi.csproj.AssemblyReference.cache
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\BookLibraryApi\BookLibraryApi\obj\Debug\net8.0\BookLibraryApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\BookLibraryApi\BookLibraryApi\obj\Debug\net8.0\BookLibr.42C25FD9.Up2Date
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\BookLibraryApi\BookLibraryApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\BookLibraryApi\BookLibraryApi\bin\Debug\net8.0\BookLibraryApi.xml

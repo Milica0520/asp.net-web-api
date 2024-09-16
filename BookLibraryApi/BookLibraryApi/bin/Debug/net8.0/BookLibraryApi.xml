@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookLibraryApi</name>
+    </assembly>
+    <members>
+        <member name="M:BookLibraryApi.Controllers.BooksController.GetBooks">
+            <summary>
+            Gets a list of all books.
+            </summary>
+            <remarks>
+            This endpoint returns a list of books available in the system.
+            </remarks>
+            <returns>A list of bookss.</returns>
+        </member>
+    </members>
+</doc>

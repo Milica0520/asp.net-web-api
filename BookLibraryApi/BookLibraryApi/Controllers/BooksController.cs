@@ -2,8 +2,8 @@
 using BookLibraryApi.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Swashbuckle.AspNetCore.Annotations;
 using static System.Reflection.Metadata.BlobBuilder;
-using System;
 
 namespace BookLibraryApi.Controllers
 {
@@ -13,8 +13,17 @@ namespace BookLibraryApi.Controllers
     {
 
         public BooksController() { }
-
+        /// <summary>
+        /// Gets a list of all books.
+        /// </summary>
+        /// <remarks>
+        /// This endpoint returns a list of books available in the system.
+        /// </remarks>
+        /// <returns>A list of bookss.</returns>
         [HttpGet("getAllBooks")]
+
+        [SwaggerOperation(Summary = "Get all books", Description = "Returns a list of all books.")]
+        [SwaggerResponse(200, "Success", typeof(List<Book>))]
 
         public ActionResult<List<Book>> GetBooks()
         {
