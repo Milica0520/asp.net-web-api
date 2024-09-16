@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "NVZ4UDCufUqDmLn+oxfYo0FZyPYz53BMGb/npAgLo/5dL8Kr3GorwenRjWUgn95vOdQosLuuR7joKpwwHqNr7g==",
+  "dgSpecHash": "OB9et7/plIzzz3FsDxbLVedl643KIVu6S7q01fr2NF0Fsa0/lxa5bg5y8XIRQdgZZ2NdQ1LZRubFGRpj9lbZXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\BookLibraryApi\\BookLibraryApi\\BookLibraryApi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\BookLibraryApi\\BookLibraryApi\\BookLibraryApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micad\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\micad\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\micad\\.nuget\\packages\\swashbuckle.aspnetcore\\6.7.3\\swashbuckle.aspnetcore.6.7.3.nupkg.sha512",
+    "C:\\Users\\micad\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.7.3\\swashbuckle.aspnetcore.swagger.6.7.3.nupkg.sha512",
+    "C:\\Users\\micad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.7.3\\swashbuckle.aspnetcore.swaggergen.6.7.3.nupkg.sha512",
+    "C:\\Users\\micad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.7.3\\swashbuckle.aspnetcore.swaggerui.6.7.3.nupkg.sha512"
+  ],
   "logs": []
 }

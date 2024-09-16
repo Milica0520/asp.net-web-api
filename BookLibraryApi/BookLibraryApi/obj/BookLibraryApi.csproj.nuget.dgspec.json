@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\BookLibraryApi\\BookLibraryApi\\BookLibraryApi.csproj": {}
+    "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\BookLibraryApi\\BookLibraryApi\\BookLibraryApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\BookLibraryApi\\BookLibraryApi\\BookLibraryApi.csproj": {
+    "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\BookLibraryApi\\BookLibraryApi\\BookLibraryApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\BookLibraryApi\\BookLibraryApi\\BookLibraryApi.csproj",
+        "projectUniqueName": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\BookLibraryApi\\BookLibraryApi\\BookLibraryApi.csproj",
         "projectName": "BookLibraryApi",
-        "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\BookLibraryApi\\BookLibraryApi\\BookLibraryApi.csproj",
+        "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\BookLibraryApi\\BookLibraryApi\\BookLibraryApi.csproj",
         "packagesPath": "C:\\Users\\micad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\BookLibraryApi\\BookLibraryApi\\obj\\",
+        "outputPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\BookLibraryApi\\BookLibraryApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.7.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
