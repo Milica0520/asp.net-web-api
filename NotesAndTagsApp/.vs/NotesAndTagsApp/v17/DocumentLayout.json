@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\notesandtagsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\notesandtagsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|solutionrelative:notesandtagsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|solutionrelative:controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\enums\\priorityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|solutionrelative:enums\\priorityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|solutionrelative:dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\database\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|solutionrelative:database\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\dtos\\addnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|solutionrelative:dtos\\addnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\dtos\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|solutionrelative:dtos\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7856EDC2-3E88-4310-8922-A53D79622E3B}|NotesAndTagsApp.csproj|solutionrelative:models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:25:31.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StaticDb.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Database\\StaticDb.cs",
+              "RelativeDocumentMoniker": "Database\\StaticDb.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Database\\StaticDb.cs",
+              "RelativeToolTip": "Database\\StaticDb.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:07:42.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:05:44.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Note.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Models\\Note.cs",
+              "RelativeToolTip": "Models\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:01:40.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:58:31.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:57:49.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Controllers\\NotesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:55:55.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PriorityEnum.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Enums\\PriorityEnum.cs",
+              "RelativeDocumentMoniker": "Enums\\PriorityEnum.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Enums\\PriorityEnum.cs",
+              "RelativeToolTip": "Enums\\PriorityEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:00:09.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:27:47.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotesAndTagsApp",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\NotesAndTagsApp.csproj",
+              "RelativeDocumentMoniker": "NotesAndTagsApp.csproj",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\NotesAndTagsApp.csproj",
+              "RelativeToolTip": "NotesAndTagsApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T16:25:19.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\DTOs\\NoteDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\NoteDto.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\DTOs\\NoteDto.cs",
+              "RelativeToolTip": "DTOs\\NoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:56:56.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddNoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\DTOs\\AddNoteDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AddNoteDto.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\DTOs\\AddNoteDto.cs",
+              "RelativeToolTip": "DTOs\\AddNoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:21:49.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateNoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\DTOs\\UpdateNoteDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateNoteDto.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesAndTagsApp\\DTOs\\UpdateNoteDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateNoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:21:24.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
