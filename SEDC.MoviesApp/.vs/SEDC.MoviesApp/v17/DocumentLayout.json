@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\sedc.moviesapp\\sedc.moviesapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|solutionrelative:sedc.moviesapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\sedc.moviesapp\\dtos\\updatemoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|solutionrelative:sedc.moviesapp\\dtos\\updatemoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\sedc.moviesapp\\database\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|solutionrelative:sedc.moviesapp\\database\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\sedc.moviesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|solutionrelative:sedc.moviesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\sedc.moviesapp\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|solutionrelative:sedc.moviesapp\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\sedc.moviesapp\\dtos\\addmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|solutionrelative:sedc.moviesapp\\dtos\\addmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\sedc.moviesapp\\enums\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|solutionrelative:sedc.moviesapp\\enums\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\sedc.moviesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|solutionrelative:sedc.moviesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\sedc.moviesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|solutionrelative:sedc.moviesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\sedc.moviesapp\\sedc.moviesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|solutionrelative:sedc.moviesapp\\sedc.moviesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\sedc.moviesapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E089A2-EAE5-464F-A85C-5091610D88FB}|SEDC.MoviesApp\\SEDC.MoviesApp.csproj|solutionrelative:sedc.moviesapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenreEnum.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Enums\\GenreEnum.cs",
+              "RelativeDocumentMoniker": "SEDC.MoviesApp\\Enums\\GenreEnum.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Enums\\GenreEnum.cs",
+              "RelativeToolTip": "SEDC.MoviesApp\\Enums\\GenreEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:15:22.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "SEDC.MoviesApp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Models\\Movie.cs",
+              "RelativeToolTip": "SEDC.MoviesApp\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:12:01.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Program.cs",
+              "RelativeDocumentMoniker": "SEDC.MoviesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Program.cs",
+              "RelativeToolTip": "SEDC.MoviesApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:10:28.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Dtos\\UpdateMovieDto.cs",
+              "RelativeDocumentMoniker": "SEDC.MoviesApp\\Dtos\\UpdateMovieDto.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Dtos\\UpdateMovieDto.cs",
+              "RelativeToolTip": "SEDC.MoviesApp\\Dtos\\UpdateMovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:08:12.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Dtos\\MovieDto.cs",
+              "RelativeDocumentMoniker": "SEDC.MoviesApp\\Dtos\\MovieDto.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Dtos\\MovieDto.cs",
+              "RelativeToolTip": "SEDC.MoviesApp\\Dtos\\MovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:07:28.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Dtos\\AddMovieDto.cs",
+              "RelativeDocumentMoniker": "SEDC.MoviesApp\\Dtos\\AddMovieDto.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Dtos\\AddMovieDto.cs",
+              "RelativeToolTip": "SEDC.MoviesApp\\Dtos\\AddMovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:06:45.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticDB.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Database\\StaticDB.cs",
+              "RelativeDocumentMoniker": "SEDC.MoviesApp\\Database\\StaticDB.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Database\\StaticDB.cs",
+              "RelativeToolTip": "SEDC.MoviesApp\\Database\\StaticDB.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:05:06.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "SEDC.MoviesApp\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "SEDC.MoviesApp\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:03:50.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SEDC.MoviesApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\appsettings.json",
+              "RelativeToolTip": "SEDC.MoviesApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T11:16:39.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SEDC.MoviesApp",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\SEDC.MoviesApp.csproj",
+              "RelativeDocumentMoniker": "SEDC.MoviesApp\\SEDC.MoviesApp.csproj",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\SEDC.MoviesApp.csproj",
+              "RelativeToolTip": "SEDC.MoviesApp\\SEDC.MoviesApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T11:06:02.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SEDC.MoviesApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\SEDC.MoviesApp\\SEDC.MoviesApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SEDC.MoviesApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:03:10.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

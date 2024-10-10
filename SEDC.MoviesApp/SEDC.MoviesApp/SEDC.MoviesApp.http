@@ -1,0 +1,6 @@
+@SEDC.MoviesApp_HostAddress = http://localhost:5279
+
+GET {{SEDC.MoviesApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
