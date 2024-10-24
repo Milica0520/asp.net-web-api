@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1664BE60-96DF-48FE-89F3-52F0F5C47B66}|NotesApi\\NotesApi.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\notesapi\\notesapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1664BE60-96DF-48FE-89F3-52F0F5C47B66}|NotesApi\\NotesApi.csproj|solutionrelative:notesapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1664BE60-96DF-48FE-89F3-52F0F5C47B66}|NotesApi\\NotesApi.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\notesapi\\notesapi\\domain\\notetakingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1664BE60-96DF-48FE-89F3-52F0F5C47B66}|NotesApi\\NotesApi.csproj|solutionrelative:notesapi\\domain\\notetakingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1664BE60-96DF-48FE-89F3-52F0F5C47B66}|NotesApi\\NotesApi.csproj|C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesApi\\notesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1664BE60-96DF-48FE-89F3-52F0F5C47B66}|NotesApi\\NotesApi.csproj|solutionrelative:notesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesApi\\NotesApi\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "NotesApi\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesApi\\NotesApi\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "NotesApi\\Controllers\\NotesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:38:31.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesApi\\NotesApi\\Program.cs",
+              "RelativeDocumentMoniker": "NotesApi\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesApi\\NotesApi\\Program.cs",
+              "RelativeToolTip": "NotesApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:49:21.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteTakingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesApi\\NotesApi\\Domain\\NoteTakingDbContext.cs",
+              "RelativeDocumentMoniker": "NotesApi\\Domain\\NoteTakingDbContext.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\NotesApi\\NotesApi\\Domain\\NoteTakingDbContext.cs",
+              "RelativeToolTip": "NotesApi\\Domain\\NoteTakingDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:35:37.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

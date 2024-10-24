@@ -1,0 +1,12 @@
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\SEDC.NotesApp\SEDC.NotesApp.Shared\bin\Debug\net6.0\SEDC.NotesApp.Shared.deps.json
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\SEDC.NotesApp\SEDC.NotesApp.Shared\bin\Debug\net6.0\SEDC.NotesApp.Shared.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\SEDC.NotesApp\SEDC.NotesApp.Shared\bin\Debug\net6.0\SEDC.NotesApp.Shared.pdb
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\net6.0\refint\SEDC.NotesApp.Shared.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\net6.0\SEDC.NotesApp.Shared.pdb
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\net6.0\ref\SEDC.NotesApp.Shared.dll

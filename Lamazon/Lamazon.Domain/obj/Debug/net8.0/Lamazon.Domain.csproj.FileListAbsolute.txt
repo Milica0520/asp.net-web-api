@@ -1,0 +1,12 @@
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Domain\bin\Debug\net8.0\Lamazon.Domain.deps.json
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Domain\bin\Debug\net8.0\Lamazon.Domain.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Domain\bin\Debug\net8.0\Lamazon.Domain.pdb
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Domain\obj\Debug\net8.0\Lamazon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Domain\obj\Debug\net8.0\Lamazon.Domain.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Domain\obj\Debug\net8.0\Lamazon.Domain.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Domain\obj\Debug\net8.0\Lamazon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Domain\obj\Debug\net8.0\Lamazon.Domain.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Domain\obj\Debug\net8.0\Lamazon.Domain.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Domain\obj\Debug\net8.0\refint\Lamazon.Domain.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Domain\obj\Debug\net8.0\Lamazon.Domain.pdb
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Domain\obj\Debug\net8.0\ref\Lamazon.Domain.dll
