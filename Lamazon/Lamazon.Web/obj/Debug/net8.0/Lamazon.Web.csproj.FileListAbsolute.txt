@@ -145,3 +145,5 @@ C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.W
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Lamazon.Domain.pdb
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\obj\Debug\net8.0\Lamazon.Web.csproj.AssemblyReference.cache
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\obj\Debug\net8.0\Lamazon..1F76ED9B.Up2Date
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Lamazon.Services.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Lamazon.Services.pdb

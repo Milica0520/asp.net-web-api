@@ -1,4 +1,8 @@
 using Lamazon.DataAccess.Context;
+using Lamazon.DataAccess.Implementations;
+using Lamazon.DataAccess.Interfaces;
+using Lamazon.Services.Implemetations;
+using Lamazon.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace Lamazon.Web
@@ -13,14 +17,18 @@ namespace Lamazon.Web
             builder.Services.AddControllersWithViews();
 
 
-
             //Add DbContext
-
             builder.Services.AddDbContext<LamazonDbContext>(options =>
             {
                 options.UseSqlServer("Server=MICA\\SQLEXPRESS;Database=LamazonDb;Trusted_Connection=True;TrustServerCertificate=true");
             });
 
+            //Add Repositories
+            builder.Services.AddScoped<IProductCategoryRepository, ProductCategoryRepository>();
+
+
+            //AddServices
+            builder.Services.AddScoped<IProductCategoryService, ProductCategoryService>();
 
             var app = builder.Build();
 

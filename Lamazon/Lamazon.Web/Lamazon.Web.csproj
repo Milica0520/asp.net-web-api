@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Lamazon.DataAccess\Lamazon.DataAccess.csproj" />
+    <ProjectReference Include="..\Lamazon.Services\Lamazon.Services.csproj" />
   </ItemGroup>
 
 </Project>

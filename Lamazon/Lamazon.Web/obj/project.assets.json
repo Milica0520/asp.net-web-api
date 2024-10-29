@@ -1520,6 +1520,19 @@
         "runtime": {
           "bin/placeholder/Lamazon.Domain.dll": {}
         }
+      },
+      "Lamazon.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Lamazon.DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Lamazon.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lamazon.Services.dll": {}
+        }
       }
     }
   },
@@ -4065,11 +4078,17 @@
       "type": "project",
       "path": "../Lamazon.Domain/Lamazon.Domain.csproj",
       "msbuildProject": "../Lamazon.Domain/Lamazon.Domain.csproj"
+    },
+    "Lamazon.Services/1.0.0": {
+      "type": "project",
+      "path": "../Lamazon.Services/Lamazon.Services.csproj",
+      "msbuildProject": "../Lamazon.Services/Lamazon.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Lamazon.DataAccess >= 1.0.0",
+      "Lamazon.Services >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10",
@@ -4105,6 +4124,9 @@
           "projectReferences": {
             "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Lamazon.DataAccess.csproj": {
               "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Lamazon.DataAccess.csproj"
+            },
+            "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\Lamazon.Services.csproj": {
+              "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\Lamazon.Services.csproj"
             }
           }
         }

@@ -10,3 +10,9 @@ C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.S
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Services\obj\Debug\net8.0\refint\Lamazon.Services.dll
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Services\obj\Debug\net8.0\Lamazon.Services.pdb
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Services\obj\Debug\net8.0\ref\Lamazon.Services.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Services\bin\Debug\net8.0\Lamazon.DataAccess.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Services\bin\Debug\net8.0\Lamazon.Domain.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Services\bin\Debug\net8.0\Lamazon.DataAccess.pdb
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Services\bin\Debug\net8.0\Lamazon.Domain.pdb
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Services\obj\Debug\net8.0\Lamazon.Services.csproj.AssemblyReference.cache
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Services\obj\Debug\net8.0\Lamazon..F3630224.Up2Date
