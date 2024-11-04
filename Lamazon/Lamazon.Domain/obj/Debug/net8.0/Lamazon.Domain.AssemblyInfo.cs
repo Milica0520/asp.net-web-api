@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lamazon.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+339c6be5c3b44e3e284acc968eec844479a35cc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49c3f5602ef672eb426c4f3420bb7e573ef622f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lamazon.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lamazon.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
