@@ -39,8 +39,6 @@ namespace Lamazon.Services.Implemetations
         {
             Product productById = _productRepository.Get(id);
 
-
-
             if (productById == null)
             {
                 throw new KeyNotFoundException($"Product with ID {id} not found.");
