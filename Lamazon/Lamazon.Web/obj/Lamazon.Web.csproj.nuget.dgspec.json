@@ -176,6 +176,9 @@
             "projectReferences": {
               "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Lamazon.DataAccess.csproj": {
                 "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Lamazon.DataAccess.csproj"
+              },
+              "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Lamazon.Domain.csproj": {
+                "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Lamazon.Domain.csproj"
               }
             }
           }
@@ -268,6 +271,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AspNetCoreHero.ToastNotification": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"

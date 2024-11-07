@@ -2967,6 +2967,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Lamazon.DataAccess >= 1.0.0",
+      "Lamazon.Domain >= 1.0.0",
       "Microsoft.Extensions.Identity.Core >= 2.2.0"
     ]
   },
@@ -2999,6 +3000,9 @@
           "projectReferences": {
             "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Lamazon.DataAccess.csproj": {
               "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Lamazon.DataAccess.csproj"
+            },
+            "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Lamazon.Domain.csproj": {
+              "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Lamazon.Domain.csproj"
             }
           }
         }

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pmPB3gZF3QaeDaE/bsJMZELDQyfB1Yyhse8pXFts+JcnhBF2T3FKcG/YDytIMXMBwKB6r/tpsEnHs0HwY7byCA==",
+  "dgSpecHash": "603W8Vk/nayGkb+29nm+vqcUEkk6u66B7YE6xohP1U6Kljsu2+heFPjrsGrv2y3HHEOtJvYrwqgV1W7VxFNbIg==",
   "success": true,
   "projectFilePath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Lamazon.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\micad\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\aspnetcorehero.toastnotification.1.1.0.nupkg.sha512",
     "C:\\Users\\micad\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\micad\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\micad\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -49,6 +50,7 @@
     "C:\\Users\\micad\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\micad\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\micad\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\micad\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\micad\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\micad\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\micad\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",

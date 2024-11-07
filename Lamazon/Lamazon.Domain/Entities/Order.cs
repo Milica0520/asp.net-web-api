@@ -11,12 +11,13 @@ namespace Lamazon.Domain.Entities
 
        public string OrderNumber { get; set; }  
         public DateTime OrderDate { get; set; } 
+
         public int UserId { get; set; } 
         public User User { get; set; }
+
         public bool IsActive { get; set; }
-
-
         public decimal TotalPrice { get; set; } 
+
         //Shipping Details
         public string? ShippingUserFullName {  get; set; }  
 

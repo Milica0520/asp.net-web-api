@@ -9,6 +9,7 @@
       "Lamazon.Services/1.0.0": {
         "dependencies": {
           "Lamazon.DataAccess": "1.0.0",
+          "Lamazon.Domain": "1.0.0",
           "Microsoft.Extensions.Identity.Core": "2.2.0"
         },
         "runtime": {

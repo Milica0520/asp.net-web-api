@@ -176,6 +176,9 @@
             "projectReferences": {
               "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Lamazon.DataAccess.csproj": {
                 "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Lamazon.DataAccess.csproj"
+              },
+              "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Lamazon.Domain.csproj": {
+                "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Lamazon.Domain.csproj"
               }
             }
           }

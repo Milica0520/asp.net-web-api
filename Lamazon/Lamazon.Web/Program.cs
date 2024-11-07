@@ -1,3 +1,5 @@
+using AspNetCoreHero.ToastNotification;
+using AspNetCoreHero.ToastNotification.Extensions;
 using Lamazon.DataAccess.Context;
 using Lamazon.DataAccess.Implementations;
 using Lamazon.DataAccess.Interfaces;
@@ -24,15 +26,30 @@ namespace Lamazon.Web
                 options.UseSqlServer("Server=MICA\\SQLEXPRESS;Database=LamazonDb;Trusted_Connection=True;TrustServerCertificate=true");
             });
 
+            builder.Services.AddNotyf(config =>
+            {
+                config.DurationInSeconds = 10;
+                config.IsDismissable = true;
+                config.Position = NotyfPosition.BottomRight;
+            }
+           
+
+            ) ; 
+
+
             //Add Repositories
             builder.Services.AddScoped<IProductCategoryRepository, ProductCategoryRepository>();
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
             builder.Services.AddScoped<IUserRepository, UserRepository>();
+            builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+            builder.Services.AddScoped<IOrderItemRepository, OrderItemRepository>();
 
             //AddServices
             builder.Services.AddScoped<IProductCategoryService, ProductCategoryService>();
             builder.Services.AddScoped<IProductService, ProductService>();
             builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<IOrderService, OrderService>();
+            builder.Services.AddScoped<IOrderItemService, OrderItemService>();
 
 
             //
@@ -62,6 +79,8 @@ namespace Lamazon.Web
 
             app.UseAuthentication();
             app.UseAuthorization();
+
+            app.UseNotyf(); 
 
             app.MapControllerRoute(
                 name: "default",
