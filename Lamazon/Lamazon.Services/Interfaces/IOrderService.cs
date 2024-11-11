@@ -11,6 +11,7 @@ namespace Lamazon.Services.Interfaces
     {
         List<OrderVM> GttAllOrders();
 
+        List<UserOrderVM> GetOrdersByUserId(int userId);
         OrderVM GetOrderById(int id);
 
         void CreateOrder(CreateOrderViemModel model);

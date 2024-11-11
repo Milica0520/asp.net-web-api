@@ -49,7 +49,7 @@ namespace Lamazon.DataAccess.Implementations
 
         public List<Order> GetAll()
         {
-            throw new NotImplementedException();
+            return _dBcontext.Orders.Include(o => o.User).ToList();
         }
 
         public int Insert(Order order)

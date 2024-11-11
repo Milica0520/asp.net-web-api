@@ -1,0 +1,32 @@
+﻿@using Lamazon.Services.ViewModels.Order
+@model List<UserOrderVM>
+
+
+
+<div class="container mt-5">
+    <h2>Order List</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Order Number</th>
+                <th>Created Date</th>
+                <th>Is Active</th>
+                <th>Total Price</th>
+               
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model)
+            {
+                <tr>
+                    <td>@order.ID</td>
+                    <td>@order.OrderNum</td>
+                    <td>@order.CreatedDate.ToString("dd/MM/yyyy")</td>
+                    <td>@order.IsActive</td>
+                    <td>@order.TotalPrice</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

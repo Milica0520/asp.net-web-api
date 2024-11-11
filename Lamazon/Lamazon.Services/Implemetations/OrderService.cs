@@ -16,7 +16,7 @@ namespace Lamazon.Services.Implemetations
         public OrderService(IOrderRepository orderRepository)
         {
         _orderRepository= orderRepository;
-          }
+         }
         public void CreateOrder(CreateOrderViemModel model)
         {
             Order newOrder = new Order()
@@ -57,6 +57,21 @@ namespace Lamazon.Services.Implemetations
         public OrderVM GetOrderById(int id)
         {
             throw new NotImplementedException();
+        }
+
+        public List<UserOrderVM> GetOrdersByUserId(int userId)
+        {
+            return _orderRepository.GetAll()
+            .Where(o => o.UserId == userId) 
+            .Select(o => new UserOrderVM
+            {
+                ID = o.Id,
+                CreatedDate = o.OrderDate,
+                OrderNum = o.OrderNumber,
+                IsActive = o.IsActive,  
+                TotalPrice = o.TotalPrice,  
+            
+            }).ToList();
         }
 
         public List<OrderVM> GttAllOrders()

@@ -6,32 +6,25 @@
 <div class="row">
     @foreach (ProductViewModel product in Model)
     {
-        <div class="col-lg-3">
-            <div class="col-12">
-                <div class="card p-3 shadow rounded">
+        <div class="col-lg-4 col-md-6 mb-4">
+       
+            <div class="card h-100 shadow-sm text-center">
+                <img src="@product.ImageUrl" class="card-img-top img-fluid"
+                     style="max-height: 150px; max-width: 100%; object-fit: contain;" alt="@product.Name" />
 
-                    <img src="@product.ImageUrl" class="card-ing-top rounded" />
-                    <div class="card-body pb-0">
-                        <div>
-                            <p class=" card-title h5 text-dark text-uppercase text-center">@product.Name</p>
-                        </div>
-                        <div>
-                            <p class="  text-dark text-uppercase text-opacity-75">@product.Price</p>
-                        </div>
+                <div class="card-body">
+                    <h5 class="card-title text-uppercase text-dark">@product.Name</h5>
+                    <p class="card-text text-dark text-opacity-75">@product.Price</p>
+                </div>
 
-                        <div class="d-flex justify-content-between align-items">
-                            <a asp-action="ProductDetails" asp-route-id="@product.Id" class="btn btn-primary form-control">
-                                Details
-                            </a>
-                            <a asp-action="AddToCart" asp-route-productId="@product.Id" class="btn btn-outline-primary py-2">
-                                <strong>+</strong>
-                            </a>
-                        </div>
-
-                    </div>
-
+                <div class="card-footer d-flex justify-content-between">
+                    <a asp-action="ProductDetails" asp-route-id="@product.Id" class="btn btn-primary flex-fill me-1">Details</a>
+                    <a asp-action="AddToCart" asp-route-productId="@product.Id" class="btn btn-outline-primary flex-fill ms-1">
+                        <strong>+</strong>
+                    </a>
                 </div>
             </div>
         </div>
     }
 </div>
+

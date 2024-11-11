@@ -30,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/micad/OneDrive/Desktop/asp.net-course/asp.net-web-api/Lamazon/Lamazon.Web/Views/Order/UserOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcVXNlck9yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/micad/OneDrive/Desktop/asp.net-course/asp.net-web-api/Lamazon/Lamazon.Web/Views/ProductCategory/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -84,6 +88,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/micad/OneDrive/Desktop/asp.net-course/asp.net-web-api/Lamazon/Lamazon.Web/Views/User/SuccessRegistration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTdWNjZXNzUmVnaXN0cmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/micad/OneDrive/Desktop/asp.net-course/asp.net-web-api/Lamazon/Lamazon.Web/Views/User/UserInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VySW5mby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/micad/OneDrive/Desktop/asp.net-course/asp.net-web-api/Lamazon/Lamazon.Web/Views/_ViewImports.cshtml]

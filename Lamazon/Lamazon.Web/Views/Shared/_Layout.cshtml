@@ -33,7 +33,7 @@
                         @if (User.Identity.IsAuthenticated && User.IsInRole("CUSTOMER"))
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark">My orders (todo)></a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Order" asp-action="UserOrders">My orders</a>
                             </li>
 
                         }
@@ -42,7 +42,7 @@
                         @if (User.Identity.IsAuthenticated)
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-action="UserInfo" asp-controller="Home">My profile-todo</a>
+                                <a class="nav-link text-dark" asp-action="UserInfo" asp-controller="User">My profile</a>
                             </li>
                         }
 

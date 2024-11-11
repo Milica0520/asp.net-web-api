@@ -2,6 +2,7 @@
 using Lamazon.Services.ViewModels.User;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
@@ -25,20 +26,16 @@ namespace Lamazon.Web.Controllers
         [HttpPost]  
 
         public IActionResult Register([FromForm]RegisterUserViewModel model) { 
-        
-            
             _userService.RegisterUser(model);
             return View("SuccessRegistration"); 
-        
         }
 
         [HttpGet]
-
         public IActionResult LogIn() 
         {
             LogInUserViewModel logInUserViewModel = new LogInUserViewModel();
             return View(logInUserViewModel);
-                }
+        }
 
         [HttpPost]
         public IActionResult LogIn([FromForm] LogInUserViewModel model)
@@ -46,7 +43,6 @@ namespace Lamazon.Web.Controllers
             try
             {
                 UserViewModel user = _userService.LogInUser(model);
-
                 if(user == null)
                 {
                     return BadRequest();
@@ -64,14 +60,9 @@ namespace Lamazon.Web.Controllers
 
                 ClaimsPrincipal principal = new ClaimsPrincipal(claimsIdentity);
 
-
                 HttpContext.SignInAsync(principal);
 
                 return View("SuccessfullyLogIn", user);
-
-
-              
-
             }
             catch(Exception ex) 
             {
@@ -79,12 +70,20 @@ namespace Lamazon.Web.Controllers
             }
         }
         [HttpGet]
-
         public async Task<IActionResult> Logout() {
-
             await HttpContext.SignOutAsync();
             return RedirectToAction("Index", "Home");
-        
+        }
+
+        [HttpGet]
+        public IActionResult UserInfo()
+        {
+            string userIdString = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            int userId = int.Parse(userIdString);
+
+            UserInfoVM userProfile = _userService.GetUserById(userId);
+
+            return View(userProfile);
         }
     }
 }

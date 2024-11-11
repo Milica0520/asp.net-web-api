@@ -23,6 +23,29 @@ namespace Lamazon.Services.Implemetations
             _passwordHasher = new PasswordHasher<User>();   
         }
 
+        public UserInfoVM GetUserById(int id)
+        {
+            if(id == 0)
+            {
+                throw new NullReferenceException("Id can not be zero");
+            }
+
+            User userById = _userRepository.GetUser(id);
+
+
+            return new UserInfoVM()
+            {
+                UserName = userById.UserName,
+                Email = userById.Email,
+                FirstName = userById.FirstName,
+                LastName = userById.LastName,
+                Address = userById.Address,
+                City = userById.City,
+                Password = userById.Password,
+                PhoneNumber = userById.PhoneNumber,
+            };
+        }
+
         public UserViewModel LogInUser(LogInUserViewModel model)
         {
             if(model == null)

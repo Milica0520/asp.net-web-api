@@ -12,5 +12,7 @@ namespace Lamazon.Services.Interfaces
         void RegisterUser(RegisterUserViewModel model);
 
         UserViewModel LogInUser(LogInUserViewModel model);
+
+        UserInfoVM  GetUserById (int id);
     }
 }
