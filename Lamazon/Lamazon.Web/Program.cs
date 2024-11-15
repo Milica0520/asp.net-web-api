@@ -8,6 +8,7 @@ using Lamazon.Services.Interfaces;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace Lamazon.Web
 {
     public class Program
@@ -32,10 +33,7 @@ namespace Lamazon.Web
                 config.IsDismissable = true;
                 config.Position = NotyfPosition.BottomRight;
             }
-           
-
             ) ; 
-
 
             //Add Repositories
             builder.Services.AddScoped<IProductCategoryRepository, ProductCategoryRepository>();
@@ -73,6 +71,9 @@ namespace Lamazon.Web
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
+
+            Stripe.StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe:SecretKey").Get<string>();
 
             app.UseRouting();
 

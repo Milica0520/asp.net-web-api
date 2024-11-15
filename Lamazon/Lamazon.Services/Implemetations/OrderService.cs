@@ -2,6 +2,7 @@
 using Lamazon.Domain.Entities;
 using Lamazon.Services.Interfaces;
 using Lamazon.Services.ViewModels.Order;
+using Lamazon.Services.ViewModels.OrderItem;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -48,8 +49,28 @@ namespace Lamazon.Services.Implemetations
                     User = new ViewModels.User.UserViewModel()
                     {
                         FullName = activeOrder.User.FirstName + " " + activeOrder.User.LastName,
-                    }
+                    },
+                        Items = activeOrder.Items
+                    .Select(o => new OrderItemVM()
+                    {
+                        Id = o.Id,
+                        OrderId = o.OrderId,
+                        Price = o.Price,
+                        Qty = o.Quantity,
+                        Product = new ViewModels.Product.ProductViewModel()
+                        {
+                            Name = o.Product.Name,
+                            Description = o.Product.Description,
+                            ImageUrl = o.Product.ImageUrl,
+                            Price = o.Product.Price,
+                            Id = o.ProductId
+                        }
+                    })
+                    .ToList()
                 };
+                activeOrderViewModel.TotalPrice = activeOrderViewModel
+        .Items
+        .Sum(o => o.Price * o.Qty);
             }
             return activeOrderViewModel;
         }
@@ -77,6 +98,27 @@ namespace Lamazon.Services.Implemetations
         public List<OrderVM> GttAllOrders()
         {
             throw new NotImplementedException();
+        }
+
+        public OrderVM SubmitOrder(OrderVM order)
+        {
+            Order existingActiveOrder = _orderRepository.Get(order.ID);
+
+            if (existingActiveOrder == null)
+                throw new Exception($"There is not existing order with provided ID: {order.ID}");
+
+            existingActiveOrder.ShippingUserFullName = order.ShippingUserFullName;
+            existingActiveOrder.Address = order.Address;
+            existingActiveOrder.City = order.City;
+            existingActiveOrder.PostalCode = order.PostalCode;
+            existingActiveOrder.Country = order.Country;
+            existingActiveOrder.PhoneNumber = order.PhoneNumber;
+
+           // existingActiveOrder.IsActive = false;
+
+            _orderRepository.Update(existingActiveOrder);
+
+            return order;
         }
     }
 }

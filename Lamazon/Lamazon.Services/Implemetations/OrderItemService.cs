@@ -27,8 +27,25 @@ namespace Lamazon.Services.Implemetations
         }
 
         public OrderItemService() { }
+
         public void CreateOrderItem(int productId, int orderId)
         {
+            Order order = _orderRepository.Get(orderId);
+
+            OrderItem existingOrerItem = order
+                .Items
+                .Where(x => x.ProductId ==productId)
+                .Where(x => x.OrderId == orderId)
+                .FirstOrDefault();  
+
+            if(existingOrerItem != null) {
+                existingOrerItem.Quantity++;
+                _orderItemRepository.Update(existingOrerItem);
+
+                return;
+            
+            }
+
             Product product = _productRepository.Get(productId);
 
             OrderItem orderItem = new OrderItem()

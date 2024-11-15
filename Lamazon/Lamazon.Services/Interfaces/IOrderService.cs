@@ -17,5 +17,7 @@ namespace Lamazon.Services.Interfaces
         void CreateOrder(CreateOrderViemModel model);
 
         OrderVM GetActiveOrder(int userId);
+
+        OrderVM SubmitOrder(OrderVM order);
     }
 }

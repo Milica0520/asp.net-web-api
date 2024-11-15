@@ -28,8 +28,9 @@ namespace Lamazon.DataAccess.Implementations
         {
             Order order = _dBcontext
                 .Orders
-                .Include (o => o.Id)
-                .SingleOrDefault (o => o.Id == id); 
+                .Include (o => o.User)
+                   .Include(o => o.Items)
+                .FirstOrDefault(o => o.Id == id); 
 
             return order;
         }
@@ -39,6 +40,8 @@ namespace Lamazon.DataAccess.Implementations
             Order order = _dBcontext
                 .Orders
                 .Include(o => o.User)
+                .Include(o => o.Items)
+                    .ThenInclude(oi => oi.Product)
                 .Where(o => o.IsActive == true)
                 .Where(o => o.UserId == userId)
                 .FirstOrDefault();

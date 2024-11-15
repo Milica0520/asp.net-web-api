@@ -1,8 +1,12 @@
-﻿using Lamazon.Services.Interfaces;
+﻿using Lamazon.Domain.Entities;
+using Lamazon.Services.Interfaces;
 using Lamazon.Services.ViewModels.Order;
+using Lamazon.Services.ViewModels.OrderItem;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Conventions;
+using Stripe;
+using Stripe.Checkout;
 using System.Security.Claims;
 
 namespace Lamazon.Web.Controllers
@@ -32,9 +36,89 @@ namespace Lamazon.Web.Controllers
 
         [HttpGet]
         [Authorize]
-
         public IActionResult ShoppingCart()
         {
+            string userIdValue = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            int userId = int.Parse(userIdValue);
+
+            OrderVM activeOrderData = _orderService.GetActiveOrder(userId);
+
+            return View(activeOrderData);
+        }
+
+        [HttpGet]
+        [Authorize]
+        public IActionResult Summary()
+        {
+            string userIdValue = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            int userId = int.Parse(userIdValue);
+
+            OrderVM activeOrderData = _orderService.GetActiveOrder(userId);
+
+            return View(activeOrderData);
+        }
+        [HttpPost]
+        [Authorize]
+        public IActionResult Summary([FromForm] OrderVM model)
+        {
+            _orderService.SubmitOrder(model);
+
+            string userIdString = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            int userId = int.Parse(userIdString);
+
+            OrderVM activeOrder = _orderService.GetActiveOrder(userId);
+
+            // TODO ADD PAYMENT METHOD USING STRIPE
+            string domain = "https://localhost:7196";
+
+            SessionCreateOptions sessionCreateOptions = new SessionCreateOptions()
+            {
+                Mode = "payment",
+                LineItems = new List<SessionLineItemOptions>(),
+                SuccessUrl = $"{domain}/Order/Confirmation?orderNum={model.OrderNum}",
+                CancelUrl = $"{domain}/Order/ShoppingCart",
+            };
+
+            
+            foreach ( OrderItemVM orderItem in activeOrder.Items)
+            {
+
+                long orderInCent = (long)(orderItem.Price * 100);
+                SessionLineItemOptions productItem = new SessionLineItemOptions()
+                {
+                    Quantity = orderItem.Qty,
+                    PriceData = new SessionLineItemPriceDataOptions()
+                    {
+                        UnitAmount = orderInCent,
+                        Currency = "eur",
+                        ProductData = new SessionLineItemPriceDataProductDataOptions()
+                        {
+                            Name = orderItem.Product.Name,
+                        },
+                    },
+                  
+                };
+
+                sessionCreateOptions.LineItems.Add(productItem);
+                
+            }
+            SessionService sessionService = new SessionService();
+
+
+            Session session = sessionService.Create(sessionCreateOptions);
+
+
+            //Response.Headers.Add("Location", session.Url);
+
+            // return new StatusCodeResult(303);
+            return Redirect(session.Url);
+        }
+
+        [HttpGet]
+        [Authorize]
+        public IActionResult Confirmation(string orderNumber)
+        {
+            ViewData["orderNumber"] = orderNumber;
             return View();
         }
     }
