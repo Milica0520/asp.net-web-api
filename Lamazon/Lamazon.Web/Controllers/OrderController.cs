@@ -5,6 +5,7 @@ using Lamazon.Services.ViewModels.OrderItem;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Conventions;
+using Serilog;
 using Stripe;
 using Stripe.Checkout;
 using System.Security.Claims;
@@ -61,64 +62,80 @@ namespace Lamazon.Web.Controllers
         [Authorize]
         public IActionResult Summary([FromForm] OrderVM model)
         {
-            _orderService.SubmitOrder(model);
-
-            string userIdString = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            int userId = int.Parse(userIdString);
-
-            OrderVM activeOrder = _orderService.GetActiveOrder(userId);
-
-            // TODO ADD PAYMENT METHOD USING STRIPE
-            string domain = "https://localhost:7196";
-
-            SessionCreateOptions sessionCreateOptions = new SessionCreateOptions()
+            try
             {
-                Mode = "payment",
-                LineItems = new List<SessionLineItemOptions>(),
-                SuccessUrl = $"{domain}/Order/Confirmation?orderNum={model.OrderNum}",
-                CancelUrl = $"{domain}/Order/ShoppingCart",
-            };
+                _orderService.SubmitOrder(model);
 
-            
-            foreach ( OrderItemVM orderItem in activeOrder.Items)
-            {
+                string userIdString = User.FindFirstValue(ClaimTypes.NameIdentifier);
+                int userId = int.Parse(userIdString);
 
-                long orderInCent = (long)(orderItem.Price * 100);
-                SessionLineItemOptions productItem = new SessionLineItemOptions()
+                OrderVM activeOrder = _orderService.GetActiveOrder(userId);
+
+                
+
+
+                // TODO ADD PAYMENT METHOD USING STRIPE
+                string domain = "https://localhost:7196";
+
+                SessionCreateOptions sessionCreateOptions = new SessionCreateOptions()
                 {
-                    Quantity = orderItem.Qty,
-                    PriceData = new SessionLineItemPriceDataOptions()
-                    {
-                        UnitAmount = orderInCent,
-                        Currency = "eur",
-                        ProductData = new SessionLineItemPriceDataProductDataOptions()
-                        {
-                            Name = orderItem.Product.Name,
-                        },
-                    },
-                  
+                    Mode = "payment",
+                    LineItems = new List<SessionLineItemOptions>(),
+                    SuccessUrl = $"{domain}/Order/Confirmation?orderNum={model.ID}",
+                    CancelUrl = $"{domain}/Order/ShoppingCart",
                 };
 
-                sessionCreateOptions.LineItems.Add(productItem);
-                
+
+                foreach (OrderItemVM orderItem in activeOrder.Items)
+                {
+
+                    long orderInCent = (long)(orderItem.Price * 100);
+                    SessionLineItemOptions productItem = new SessionLineItemOptions()
+                    {
+                        Quantity = orderItem.Qty,
+                        PriceData = new SessionLineItemPriceDataOptions()
+                        {
+                            UnitAmount = orderInCent,
+                            Currency = "eur",
+                            ProductData = new SessionLineItemPriceDataProductDataOptions()
+                            {
+                                Name = orderItem.Product.Name,
+                            },
+                        },
+
+                    };
+
+                    sessionCreateOptions.LineItems.Add(productItem);
+
+                }
+                SessionService sessionService = new SessionService();
+
+
+                Session session = sessionService.Create(sessionCreateOptions);
+
+
+                //Response.Headers.Add("Location", session.Url);
+
+                // return new StatusCodeResult(303);
+                return Redirect(session.Url);
             }
-            SessionService sessionService = new SessionService();
-
-
-            Session session = sessionService.Create(sessionCreateOptions);
-
-
-            //Response.Headers.Add("Location", session.Url);
-
-            // return new StatusCodeResult(303);
-            return Redirect(session.Url);
+            catch(Exception ex)
+            {
+                Log.Error(ex, $"Internal ServerErrror happened {User.FindFirstValue(ClaimTypes.NameIdentifier)}");
+                return RedirectToAction("Error", "Home");
+            }
+           
         }
 
         [HttpGet]
         [Authorize]
-        public IActionResult Confirmation(string orderNumber)
+        public IActionResult Confirmation(int orderId)
         {
-            ViewData["orderNumber"] = orderNumber;
+
+            OrderVM order = _orderService.GetOrderById(orderId);
+            _orderService.SetInactiveOrder(orderId);
+                
+            ViewData["orderNumber"] = order.OrderNum;
             return View();
         }
     }

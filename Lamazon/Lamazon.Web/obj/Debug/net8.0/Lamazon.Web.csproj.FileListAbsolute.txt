@@ -143,3 +143,12 @@ C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.W
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\obj\Debug\net8.0\Lamazon.Web.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Stripe.net.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Serilog.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Serilog.Sinks.File.dll

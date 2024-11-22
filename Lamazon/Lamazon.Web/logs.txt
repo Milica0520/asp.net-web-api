@@ -1,0 +1,25 @@
+2024-11-16 09:39:19.952 +01:00 [INF] User profile is available. Using 'C:\Users\micad\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-11-16 09:39:20.293 +01:00 [INF] Now listening on: https://localhost:7196
+2024-11-16 09:39:20.293 +01:00 [INF] Now listening on: http://localhost:5088
+2024-11-16 09:39:20.295 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-16 09:39:20.296 +01:00 [INF] Hosting environment: Development
+2024-11-16 09:39:20.296 +01:00 [INF] Content root path: C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web
+2024-11-16 09:39:23.405 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7196/ - null null
+2024-11-16 09:39:23.605 +01:00 [INF] Executing endpoint 'Lamazon.Web.Controllers.HomeController.Index (Lamazon.Web)'
+2024-11-16 09:39:23.674 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Lamazon.Web.Controllers.HomeController (Lamazon.Web).
+2024-11-16 09:39:24.578 +01:00 [WRN] No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-11-16 09:39:24.579 +01:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-11-16 09:39:24.579 +01:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-11-16 09:39:25.511 +01:00 [INF] Executed DbCommand (37ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Description], [p].[ImageUrl], [p].[Name], [p].[Price], [p].[ProductCategoryId], [p0].[Id], [p0].[Name]
+FROM [Products] AS [p]
+INNER JOIN [ProductCategories] AS [p0] ON [p].[ProductCategoryId] = [p0].[Id]
+2024-11-16 09:39:25.641 +01:00 [INF] Executing ViewResult, running view Index.
+2024-11-16 09:39:25.931 +01:00 [INF] Executed ViewResult - view Index executed in 296.8126ms.
+2024-11-16 09:39:25.937 +01:00 [INF] Executed action Lamazon.Web.Controllers.HomeController.Index (Lamazon.Web) in 2262.274ms
+2024-11-16 09:39:25.938 +01:00 [INF] Executed endpoint 'Lamazon.Web.Controllers.HomeController.Index (Lamazon.Web)'
+2024-11-16 09:39:25.964 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7196/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-16 09:39:25.964 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7196/_vs/browserLink - null null
+2024-11-16 09:39:25.981 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7196/ - 200 null text/html; charset=utf-8 2573.8365ms
+2024-11-16 09:39:25.982 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7196/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 20.7185ms
+2024-11-16 09:39:27.312 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7196/_vs/browserLink - 200 null text/javascript; charset=UTF-8 1349.8286ms

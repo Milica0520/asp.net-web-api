@@ -16,8 +16,8 @@ namespace Lamazon.Services.Implemetations
         private readonly IOrderRepository _orderRepository;
         public OrderService(IOrderRepository orderRepository)
         {
-        _orderRepository= orderRepository;
-         }
+            _orderRepository = orderRepository;
+        }
         public void CreateOrder(CreateOrderViemModel model)
         {
             Order newOrder = new Order()
@@ -28,7 +28,7 @@ namespace Lamazon.Services.Implemetations
                 OrderNumber = $"{DateTime.UtcNow.ToLongTimeString()}_{model.UserId}",
             };
 
-            _orderRepository.Insert(newOrder);  
+            _orderRepository.Insert(newOrder);
         }
 
         public OrderVM GetActiveOrder(int userId)
@@ -50,7 +50,7 @@ namespace Lamazon.Services.Implemetations
                     {
                         FullName = activeOrder.User.FirstName + " " + activeOrder.User.LastName,
                     },
-                        Items = activeOrder.Items
+                    Items = activeOrder.Items
                     .Select(o => new OrderItemVM()
                     {
                         Id = o.Id,
@@ -83,21 +83,29 @@ namespace Lamazon.Services.Implemetations
         public List<UserOrderVM> GetOrdersByUserId(int userId)
         {
             return _orderRepository.GetAll()
-            .Where(o => o.UserId == userId) 
+            .Where(o => o.UserId == userId)
             .Select(o => new UserOrderVM
             {
                 ID = o.Id,
                 CreatedDate = o.OrderDate,
                 OrderNum = o.OrderNumber,
-                IsActive = o.IsActive,  
-                TotalPrice = o.TotalPrice,  
-            
+                IsActive = o.IsActive,
+                TotalPrice = o.TotalPrice,
+
             }).ToList();
         }
 
         public List<OrderVM> GttAllOrders()
         {
             throw new NotImplementedException();
+        }
+
+        public void SetInactiveOrder(int id)
+        {
+            Order existingActiveOreder = _orderRepository.GetActiveOrder(id);
+            existingActiveOreder.IsActive = false;
+
+            _orderRepository.Update(existingActiveOreder);
         }
 
         public OrderVM SubmitOrder(OrderVM order)
@@ -114,7 +122,7 @@ namespace Lamazon.Services.Implemetations
             existingActiveOrder.Country = order.Country;
             existingActiveOrder.PhoneNumber = order.PhoneNumber;
 
-           // existingActiveOrder.IsActive = false;
+            // existingActiveOrder.IsActive = false;
 
             _orderRepository.Update(existingActiveOrder);
 

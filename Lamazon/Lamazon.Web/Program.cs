@@ -7,6 +7,7 @@ using Lamazon.Services.Implemetations;
 using Lamazon.Services.Interfaces;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
+using Serilog;
 
 
 namespace Lamazon.Web
@@ -17,6 +18,14 @@ namespace Lamazon.Web
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddSerilog(options =>
+            {
+                options
+                .MinimumLevel
+                .Error()
+                .WriteTo.File("log.txt");
+            }
+            );
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 

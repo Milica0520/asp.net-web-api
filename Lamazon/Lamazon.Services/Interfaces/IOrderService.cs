@@ -19,5 +19,7 @@ namespace Lamazon.Services.Interfaces
         OrderVM GetActiveOrder(int userId);
 
         OrderVM SubmitOrder(OrderVM order);
+
+        void SetInactiveOrder(int id);
     }
 }
