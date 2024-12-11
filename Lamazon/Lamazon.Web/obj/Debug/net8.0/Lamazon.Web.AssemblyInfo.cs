@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lamazon.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+610bde32ce14aa275d305161dd5e61a194399f96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b47715d5183bb5f4234de0191a03764cde5b3fe1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lamazon.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lamazon.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,20 +18,32 @@ namespace Lamazon.Web.Controllers
 
         public ActionResult Register()
         {
-            RegisterUserViewModel registerUserViewModel = new RegisterUserViewModel();  
+            RegisterUserViewModel registerUserViewModel = new RegisterUserViewModel();
             return View(registerUserViewModel);
         }
 
 
-        [HttpPost]  
+        [HttpPost]
 
-        public IActionResult Register([FromForm]RegisterUserViewModel model) { 
+        public IActionResult Register([FromForm] RegisterUserViewModel model)
+        {
+            ModelState.Remove("FirstName");
+            ModelState.Remove("LastName");
+            ModelState.Remove("PhoneNumber");
+            ModelState.Remove("City");
+            ModelState.Remove("Address");
+
+            if (!ModelState.IsValid)
+            {
+
+                return View(model);
+            }
             _userService.RegisterUser(model);
-            return View("SuccessRegistration"); 
+            return View("SuccessRegistration");
         }
 
         [HttpGet]
-        public IActionResult LogIn() 
+        public IActionResult LogIn()
         {
             LogInUserViewModel logInUserViewModel = new LogInUserViewModel();
             return View(logInUserViewModel);
@@ -43,7 +55,7 @@ namespace Lamazon.Web.Controllers
             try
             {
                 UserViewModel user = _userService.LogInUser(model);
-                if(user == null)
+                if (user == null)
                 {
                     return BadRequest();
                 }
@@ -64,14 +76,15 @@ namespace Lamazon.Web.Controllers
 
                 return RedirectToAction("Index", "Home");
             }
-            catch(Exception ex) 
+            catch (Exception ex)
             {
                 //
                 return RedirectToAction("Index", "Home");
             }
         }
         [HttpGet]
-        public async Task<IActionResult> Logout() {
+        public async Task<IActionResult> Logout()
+        {
             await HttpContext.SignOutAsync();
             return RedirectToAction("Index", "Home");
         }

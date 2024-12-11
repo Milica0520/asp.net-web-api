@@ -5,6 +5,6 @@
     "\\NotesApi\\Controllers",
     "\\NotesApi\\Domain"
   ],
-  "SelectedNode": "\\NotesApi",
+  "SelectedNode": "\\NotesApi\\Controllers\\NotesController.cs",
   "PreviewInSolutionExplorer": false
 }
