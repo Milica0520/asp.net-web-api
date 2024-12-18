@@ -85,11 +85,11 @@ namespace Lamazon.Services.Implemetations
             };
 
         }
-
+       
         public void RegisterUser(RegisterUserViewModel model)
         {
-            if(model == null) throw new ArgumentNullException("Provided model is null.");
-
+            if (model == null) throw new ArgumentNullException("Provided model is null.");
+        
             if (model.Password != model.ConformationPassword)
                 throw new ArgumentException("Provided passwords are not equal.");
 

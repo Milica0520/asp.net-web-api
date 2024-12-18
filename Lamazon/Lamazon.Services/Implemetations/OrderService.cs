@@ -77,7 +77,7 @@ namespace Lamazon.Services.Implemetations
 
         public OrderVM GetOrderById(int id)
         {
-            throw new NotImplementedException();
+           throw new NotImplementedException(); 
         }
 
         public List<UserOrderVM> GetOrdersByUserId(int userId)
@@ -97,7 +97,21 @@ namespace Lamazon.Services.Implemetations
 
         public List<OrderVM> GttAllOrders()
         {
-            throw new NotImplementedException();
+            List<OrderVM> orders = 
+             _orderRepository.GetAll().Select(o => new OrderVM
+            {
+                ID = o.Id,
+                UserId = o.UserId,
+                OrderNum = o.OrderNumber,
+                City = o.City,
+                Country = o.Country,
+                TotalPrice = o.TotalPrice,
+                Address = o.Address,
+                CreatedDate = DateTime.Now,
+                
+
+            }).ToList();
+            return orders;  
         }
 
         public void SetInactiveOrder(int id)

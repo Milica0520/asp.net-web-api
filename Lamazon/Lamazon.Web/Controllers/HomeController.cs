@@ -30,8 +30,6 @@ namespace Lamazon.Web.Controllers
 
 
         }
-
-
         [HttpGet]
         public IActionResult Index()
         {
@@ -76,12 +74,6 @@ namespace Lamazon.Web.Controllers
 
             return RedirectToAction("Index");
         }
-
-
-
-
-       
-
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

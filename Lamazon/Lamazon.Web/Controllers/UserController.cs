@@ -3,11 +3,14 @@ using Lamazon.Services.ViewModels.User;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Serilog;
 using System.Security.Claims;
 
 namespace Lamazon.Web.Controllers
 {
+    
     public class UserController : Controller
     {
         private readonly IUserService _userService;
@@ -27,6 +30,8 @@ namespace Lamazon.Web.Controllers
 
         public IActionResult Register([FromForm] RegisterUserViewModel model)
         {
+
+
             ModelState.Remove("FirstName");
             ModelState.Remove("LastName");
             ModelState.Remove("PhoneNumber");
@@ -35,7 +40,6 @@ namespace Lamazon.Web.Controllers
 
             if (!ModelState.IsValid)
             {
-
                 return View(model);
             }
             _userService.RegisterUser(model);
@@ -48,24 +52,25 @@ namespace Lamazon.Web.Controllers
             LogInUserViewModel logInUserViewModel = new LogInUserViewModel();
             return View(logInUserViewModel);
         }
-
         [HttpPost]
         public IActionResult LogIn([FromForm] LogInUserViewModel model)
         {
+
             try
             {
                 UserViewModel user = _userService.LogInUser(model);
                 if (user == null)
                 {
+
                     return BadRequest();
                 }
                 List<Claim> userClames = new List<Claim>()
-                {
-                    new Claim(ClaimTypes.NameIdentifier , user.Id.ToString()),
-                    new Claim(ClaimTypes.Email , user.Email),
-                    new Claim(ClaimTypes.Name , user.FullName),
-                    new Claim(ClaimTypes.Role , user.UserRoleKey)
-                };
+              {
+                  new Claim(ClaimTypes.NameIdentifier , user.Id.ToString()),
+                  new Claim(ClaimTypes.Email , user.Email),
+                  new Claim(ClaimTypes.Name , user.FullName),
+                  new Claim(ClaimTypes.Role , user.UserRoleKey)
+              };
 
                 ClaimsIdentity claimsIdentity
                     = new ClaimsIdentity(userClames, CookieAuthenticationDefaults.AuthenticationScheme);
@@ -74,14 +79,17 @@ namespace Lamazon.Web.Controllers
 
                 HttpContext.SignInAsync(principal);
 
+             
+
                 return RedirectToAction("Index", "Home");
             }
             catch (Exception ex)
             {
-                //
-                return RedirectToAction("Index", "Home");
+                Log.Error(ex, "An error occurred while logging in.");
+                return View(model);
             }
         }
+
         [HttpGet]
         public async Task<IActionResult> Logout()
         {

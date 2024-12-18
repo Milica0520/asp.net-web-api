@@ -152,3 +152,8 @@ C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.W
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Serilog.Sinks.Console.dll
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Lamazon.AdminAPI.deps.json
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Lamazon.AdminAPI.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Lamazon.AdminAPI.exe
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Lamazon.AdminAPI.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Lamazon.AdminAPI.pdb

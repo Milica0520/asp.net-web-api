@@ -3,148 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\controllers\\menagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\controllers\\menagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.adminapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|solutionrelative:lamazon.adminapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.adminapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|solutionrelative:lamazon.adminapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.services\\viewmodels\\user\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|solutionrelative:lamazon.services\\viewmodels\\user\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.adminapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|solutionrelative:lamazon.adminapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.services\\viewmodels\\user\\loginuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|solutionrelative:lamazon.services\\viewmodels\\user\\loginuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.adminapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|solutionrelative:lamazon.adminapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.adminapi\\domein\\admindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|solutionrelative:lamazon.adminapi\\domein\\admindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.services\\viewmodels\\product\\updateproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|solutionrelative:lamazon.services\\viewmodels\\product\\updateproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.adminapi\\lamazon.adminapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|solutionrelative:lamazon.adminapi\\lamazon.adminapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.services\\viewmodels\\product\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|solutionrelative:lamazon.services\\viewmodels\\product\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.adminapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|solutionrelative:lamazon.adminapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.services\\viewmodels\\product\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|solutionrelative:lamazon.services\\viewmodels\\product\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.services\\viewmodels\\orderitem\\orderitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|solutionrelative:lamazon.services\\viewmodels\\orderitem\\orderitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.services\\viewmodels\\order\\userordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|solutionrelative:lamazon.services\\viewmodels\\order\\userordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.services\\viewmodels\\order\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|solutionrelative:lamazon.services\\viewmodels\\order\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.services\\viewmodels\\order\\createorderviemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|solutionrelative:lamazon.services\\viewmodels\\order\\createorderviemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A65169-8EDB-4E13-BED7-2865431DBC40}|Lamazon.Domain\\Lamazon.Domain.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A65169-8EDB-4E13-BED7-2865431DBC40}|Lamazon.Domain\\Lamazon.Domain.csproj|solutionrelative:lamazon.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A65169-8EDB-4E13-BED7-2865431DBC40}|Lamazon.Domain\\Lamazon.Domain.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A65169-8EDB-4E13-BED7-2865431DBC40}|Lamazon.Domain\\Lamazon.Domain.csproj|solutionrelative:lamazon.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A65169-8EDB-4E13-BED7-2865431DBC40}|Lamazon.Domain\\Lamazon.Domain.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A65169-8EDB-4E13-BED7-2865431DBC40}|Lamazon.Domain\\Lamazon.Domain.csproj|solutionrelative:lamazon.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A65169-8EDB-4E13-BED7-2865431DBC40}|Lamazon.Domain\\Lamazon.Domain.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A65169-8EDB-4E13-BED7-2865431DBC40}|Lamazon.Domain\\Lamazon.Domain.csproj|solutionrelative:lamazon.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.services\\implemetations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|solutionrelative:lamazon.services\\implemetations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2D8C388-0A02-4881-B4DD-157AA8130C3A}|Lamazon.DataAccess\\Lamazon.DataAccess.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.dataaccess\\context\\lamazondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D8C388-0A02-4881-B4DD-157AA8130C3A}|Lamazon.DataAccess\\Lamazon.DataAccess.csproj|solutionrelative:lamazon.dataaccess\\context\\lamazondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\views\\order\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\views\\order\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.adminapi\\lamazon.adminapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1CAF7ED-19A6-4B27-B2BE-DEA8D4C99E5E}|Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj|solutionrelative:lamazon.adminapi\\lamazon.adminapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|solutionrelative:lamazon.services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\views\\user\\userinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\views\\user\\userinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.services\\implemetations\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076D8796-F83C-4E0C-9577-F1AAFA6A0CAB}|Lamazon.Services\\Lamazon.Services.csproj|solutionrelative:lamazon.services\\implemetations\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2D8C388-0A02-4881-B4DD-157AA8130C3A}|Lamazon.DataAccess\\Lamazon.DataAccess.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.dataaccess\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D8C388-0A02-4881-B4DD-157AA8130C3A}|Lamazon.DataAccess\\Lamazon.DataAccess.csproj|solutionrelative:lamazon.dataaccess\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\views\\order\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\views\\order\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\controllers\\datamanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\controllers\\datamanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\views\\order\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\views\\order\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\views\\order\\userorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\views\\order\\userorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2D8C388-0A02-4881-B4DD-157AA8130C3A}|Lamazon.DataAccess\\Lamazon.DataAccess.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.dataaccess\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D8C388-0A02-4881-B4DD-157AA8130C3A}|Lamazon.DataAccess\\Lamazon.DataAccess.csproj|solutionrelative:lamazon.dataaccess\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|c:\\users\\micad\\onedrive\\desktop\\asp.net-course\\asp.net-web-api\\lamazon\\lamazon.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD80E43-FC09-4DFB-B3D0-AA7FA3DF2B1A}|Lamazon.Web\\Lamazon.Web.csproj|solutionrelative:lamazon.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -154,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,437 +82,210 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenagerController.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\MenagerController.cs",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Controllers\\MenagerController.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\MenagerController.cs",
-              "RelativeToolTip": "Lamazon.Web\\Controllers\\MenagerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "AdminDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\Domein\\AdminDbContext.cs",
+              "RelativeDocumentMoniker": "Lamazon.AdminAPI\\Domein\\AdminDbContext.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\Domein\\AdminDbContext.cs",
+              "RelativeToolTip": "Lamazon.AdminAPI\\Domein\\AdminDbContext.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T13:39:33.298Z",
+              "WhenOpened": "2024-12-17T15:24:04.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\Product\\UpdateProductViewModel.cs",
-              "RelativeDocumentMoniker": "Lamazon.Services\\ViewModels\\Product\\UpdateProductViewModel.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\Product\\UpdateProductViewModel.cs",
-              "RelativeToolTip": "Lamazon.Services\\ViewModels\\Product\\UpdateProductViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T10:20:47.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\Product\\ProductViewModel.cs",
-              "RelativeDocumentMoniker": "Lamazon.Services\\ViewModels\\Product\\ProductViewModel.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\Product\\ProductViewModel.cs",
-              "RelativeToolTip": "Lamazon.Services\\ViewModels\\Product\\ProductViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T10:20:46.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Lamazon.Web\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAABIAAAAmAAAA",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Lamazon.AdminAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Lamazon.AdminAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:30:57.915Z"
+              "WhenOpened": "2024-12-17T11:24:35.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Lamazon.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T16:59:01.677Z",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Lamazon.AdminAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Lamazon.AdminAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:39:45.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LogInUserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\User\\LogInUserViewModel.cs",
-              "RelativeDocumentMoniker": "Lamazon.Services\\ViewModels\\User\\LogInUserViewModel.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\User\\LogInUserViewModel.cs",
-              "RelativeToolTip": "Lamazon.Services\\ViewModels\\User\\LogInUserViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Lamazon.Web\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Lamazon.Web\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T10:20:52.908Z"
+              "WhenOpened": "2024-12-16T12:24:56.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterUserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\User\\RegisterUserViewModel.cs",
-              "RelativeDocumentMoniker": "Lamazon.Services\\ViewModels\\User\\RegisterUserViewModel.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\User\\RegisterUserViewModel.cs",
-              "RelativeToolTip": "Lamazon.Services\\ViewModels\\User\\RegisterUserViewModel.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T10:23:20.05Z"
+              "DocumentIndex": 6,
+              "Title": "Lamazon.AdminAPI",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj",
+              "RelativeDocumentMoniker": "Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj",
+              "RelativeToolTip": "Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T15:18:45.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\User\\Register.cshtml",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Views\\User\\Register.cshtml",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\User\\Register.cshtml",
-              "RelativeToolTip": "Lamazon.Web\\Views\\User\\Register.cshtml",
-              "ViewState": "AQIAABcAAAAAAAAAAAAYwC4AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T09:09:45.455Z"
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Lamazon.AdminAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\Program.cs",
+              "RelativeToolTip": "Lamazon.AdminAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:51:49.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Lamazon.AdminAPI\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Lamazon.AdminAPI\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:33:00.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Lamazon.AdminAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\appsettings.Development.json",
+              "RelativeToolTip": "Lamazon.AdminAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T11:42:45.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CreateProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\Product\\CreateProductViewModel.cs",
-              "RelativeDocumentMoniker": "Lamazon.Services\\ViewModels\\Product\\CreateProductViewModel.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\Product\\CreateProductViewModel.cs",
-              "RelativeToolTip": "Lamazon.Services\\ViewModels\\Product\\CreateProductViewModel.cs",
+              "Title": "Lamazon.AdminAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj",
+              "RelativeDocumentMoniker": "Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj",
+              "RelativeToolTip": "Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T10:20:34.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateOrderViemModel.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\Order\\CreateOrderViemModel.cs",
-              "RelativeDocumentMoniker": "Lamazon.Services\\ViewModels\\Order\\CreateOrderViemModel.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\Order\\CreateOrderViemModel.cs",
-              "RelativeToolTip": "Lamazon.Services\\ViewModels\\Order\\CreateOrderViemModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T10:20:02.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Lamazon.Web\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAEBdwFYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:57:37.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\Implemetations\\OrderService.cs",
-              "RelativeDocumentMoniker": "Lamazon.Services\\Implemetations\\OrderService.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\Implemetations\\OrderService.cs",
-              "RelativeToolTip": "Lamazon.Services\\Implemetations\\OrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAEBVwA8AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:35:15.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Lamazon.Domain\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Lamazon.Domain\\Entities\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T17:11:31.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrderVM.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\Order\\OrderVM.cs",
-              "RelativeDocumentMoniker": "Lamazon.Services\\ViewModels\\Order\\OrderVM.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\Order\\OrderVM.cs",
-              "RelativeToolTip": "Lamazon.Services\\ViewModels\\Order\\OrderVM.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:30:04.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserOrderVM.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\Order\\UserOrderVM.cs",
-              "RelativeDocumentMoniker": "Lamazon.Services\\ViewModels\\Order\\UserOrderVM.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\Order\\UserOrderVM.cs",
-              "RelativeToolTip": "Lamazon.Services\\ViewModels\\Order\\UserOrderVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:57:24.543Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T11:53:52.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "OrderItemVM.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\OrderItem\\OrderItemVM.cs",
-              "RelativeDocumentMoniker": "Lamazon.Services\\ViewModels\\OrderItem\\OrderItemVM.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\ViewModels\\OrderItem\\OrderItemVM.cs",
-              "RelativeToolTip": "Lamazon.Services\\ViewModels\\OrderItem\\OrderItemVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:31:48.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Program.cs",
-              "RelativeToolTip": "Lamazon.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:17:01.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductCategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\ProductCategoryController.cs",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Controllers\\ProductCategoryController.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\ProductCategoryController.cs",
-              "RelativeToolTip": "Lamazon.Web\\Controllers\\ProductCategoryController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAEBdwCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T11:58:08.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Lamazon.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Lamazon.Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:11:16.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Lamazon.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Lamazon.Domain\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:11:09.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Lamazon.Web\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\appsettings.Development.json",
               "RelativeToolTip": "Lamazon.Web\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-14T17:24:06.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Lamazon.Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "Lamazon.Domain\\Entities\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:24:13.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Lamazon.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T10:00:02.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Lamazon.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T17:15:07.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LamazonDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Context\\LamazonDbContext.cs",
-              "RelativeDocumentMoniker": "Lamazon.DataAccess\\Context\\LamazonDbContext.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Context\\LamazonDbContext.cs",
-              "RelativeToolTip": "Lamazon.DataAccess\\Context\\LamazonDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T17:07:17.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ShoppingCart.cshtml",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Order\\ShoppingCart.cshtml",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Views\\Order\\ShoppingCart.cshtml",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Order\\ShoppingCart.cshtml",
-              "RelativeToolTip": "Lamazon.Web\\Views\\Order\\ShoppingCart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T10:55:48.448Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T11:42:08.054Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\Interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Lamazon.Services\\Interfaces\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\Interfaces\\IOrderService.cs",
-              "RelativeToolTip": "Lamazon.Services\\Interfaces\\IOrderService.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAIBZwBYAAAAkAAAA",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lamazon.Web\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Lamazon.Web\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T13:12:02.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Lamazon.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Program.cs",
+              "RelativeToolTip": "Lamazon.Web\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIBJwCUAAACFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:29:05.204Z"
+              "WhenOpened": "2024-12-16T13:26:17.902Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UserInfo.cshtml",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\User\\UserInfo.cshtml",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Views\\User\\UserInfo.cshtml",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\User\\UserInfo.cshtml",
-              "RelativeToolTip": "Lamazon.Web\\Views\\User\\UserInfo.cshtml",
-              "ViewState": "AQIAABoAAAAAAAAAAIBZwA4AAAAaAAAA",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lamazon.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lamazon.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwC8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T15:23:56.052Z"
+              "WhenOpened": "2024-12-15T08:45:17.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "OrderItemService.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\Implemetations\\OrderItemService.cs",
-              "RelativeDocumentMoniker": "Lamazon.Services\\Implemetations\\OrderItemService.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Services\\Implemetations\\OrderItemService.cs",
-              "RelativeToolTip": "Lamazon.Services\\Implemetations\\OrderItemService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA0AAAA",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Lamazon.Web\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Lamazon.Web\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAIBJwFMAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T16:52:34.589Z"
+              "WhenOpened": "2024-12-15T08:39:59.384Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Implementations\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Lamazon.DataAccess\\Implementations\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Implementations\\OrderRepository.cs",
-              "RelativeToolTip": "Lamazon.DataAccess\\Implementations\\OrderRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAuwCQAAAAAAAAA",
+              "DocumentIndex": 14,
+              "Title": "DataManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\DataManagerController.cs",
+              "RelativeDocumentMoniker": "Lamazon.Web\\Controllers\\DataManagerController.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\DataManagerController.cs",
+              "RelativeToolTip": "Lamazon.Web\\Controllers\\DataManagerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:22:32.738Z"
+              "WhenOpened": "2024-12-15T10:43:01.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "UserOrders.cshtml",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Order\\UserOrders.cshtml",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Views\\Order\\UserOrders.cshtml",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Order\\UserOrders.cshtml",
-              "RelativeToolTip": "Lamazon.Web\\Views\\Order\\UserOrders.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T10:52:43.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Summary.cshtml",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Order\\Summary.cshtml",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Views\\Order\\Summary.cshtml",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Order\\Summary.cshtml",
-              "RelativeToolTip": "Lamazon.Web\\Views\\Order\\Summary.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T11:02:36.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Lamazon.Web\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T12:52:49.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Confirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Order\\Confirmation.cshtml",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Views\\Order\\Confirmation.cshtml",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Order\\Confirmation.cshtml",
-              "RelativeToolTip": "Lamazon.Web\\Views\\Order\\Confirmation.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T10:54:12.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Interfaces\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Lamazon.DataAccess\\Interfaces\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.DataAccess\\Interfaces\\IOrderRepository.cs",
-              "RelativeToolTip": "Lamazon.DataAccess\\Interfaces\\IOrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 15,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Lamazon.Web\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Lamazon.Web\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:24:57.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "Lamazon.Web\\Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.Web\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "Lamazon.Web\\Views\\Product\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T17:14:26.671Z"
+              "WhenOpened": "2024-12-15T17:14:35.732Z",
+              "EditorCaption": ""
             }
           ]
         }

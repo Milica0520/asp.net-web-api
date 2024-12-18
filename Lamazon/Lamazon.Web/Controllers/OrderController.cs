@@ -71,10 +71,8 @@ namespace Lamazon.Web.Controllers
 
                 OrderVM activeOrder = _orderService.GetActiveOrder(userId);
 
-                
-
-
                 // TODO ADD PAYMENT METHOD USING STRIPE
+                // Add Stripe option
                 string domain = "https://localhost:7196";
 
                 SessionCreateOptions sessionCreateOptions = new SessionCreateOptions()

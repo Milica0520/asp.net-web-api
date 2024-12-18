@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "/LZBXTjObKxLgS3ee4GsAyUcZLD2qHETV/wKUaqNFf0=",
+  "Hash": "Sk2GKttvgg/t6j+T0lmcDazgLV5tuknmmnNLUqH3dSs=",
   "Source": "Lamazon.Web",
   "BasePath": "_content/Lamazon.Web",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\micad\\OneDrive\\Desktop\\asp.net-course\\asp.net-web-api\\Lamazon\\Lamazon.AdminAPI\\Lamazon.AdminAPI.csproj",
+      "Version": 2,
+      "Source": "Lamazon.AdminAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "Lamazon.Web\\wwwroot",

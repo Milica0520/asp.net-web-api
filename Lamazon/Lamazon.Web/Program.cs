@@ -1,5 +1,6 @@
 using AspNetCoreHero.ToastNotification;
 using AspNetCoreHero.ToastNotification.Extensions;
+using Lamazon.AdminAPI.Controllers;
 using Lamazon.DataAccess.Context;
 using Lamazon.DataAccess.Implementations;
 using Lamazon.DataAccess.Interfaces;
@@ -17,6 +18,7 @@ namespace Lamazon.Web
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            
 
             builder.Services.AddSerilog(options =>
             {
@@ -28,7 +30,7 @@ namespace Lamazon.Web
             );
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+           
 
             //Add DbContext
             builder.Services.AddDbContext<LamazonDbContext>(options =>
@@ -67,6 +69,8 @@ namespace Lamazon.Web
                     opt.LoginPath = "/user/LogIn";
                 });
 
+            builder.Services.AddHttpClient();
+           
 
             var app = builder.Build();
 

@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Lamazon.Services.Validators;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Lamazon.Services.ViewModels.User
 {
@@ -27,6 +24,9 @@ namespace Lamazon.Services.ViewModels.User
 
         [Required(ErrorMessage = "Email is required.")]
         [EmailAddress(ErrorMessage = "Invalid email format.")]
+        [EmailDomainVlidator(ErrorMessage = "The email domain does not exist.")]
+
+        [EmailExistsValidator]
         public string Email { get; set; }
         public string PhoneNumber { get; set; }
         public string City { get; set; }
