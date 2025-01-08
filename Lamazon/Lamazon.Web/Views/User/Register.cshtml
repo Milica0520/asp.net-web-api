@@ -13,9 +13,9 @@
                         <div>
                             <label asp-for="FirstName" class=" form-control">First Name</label>
                             <input asp-for="FirstName" class=" form-control" />
-                            
+
                         </div>
-                        <br/>
+                        <br />
                         <div>
                             <label asp-for="LastName" class=" form-control">Last Name</label>
                             <input asp-for="LastName" class=" form-control" />
@@ -34,15 +34,21 @@
                         </div>
                         <br />
                         <div>
-                            <label asp-for="Password" class=" form-control">Password</label>
-                            <input asp-for="Password" class=" form-control" />
-                            <span asp-validation-for="Password" class="text-danger"></span>
+                            <label asp-for="Password" class="me-2">Password</label>
+                            <div class="form-group d-flex align-items-center position-relative">
+
+                                @Html.PasswordFor(model => model.Password, new { @class = "form-control", placeholder = "Enter your password", id = "Password" })
+                                <button type="button" class="btn btn-outline-secondary" id="togglePassword">
+                                    <i class="fa fa-eye"></i>
+                                </button>
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
                         </div>
                         <br />
                         <div>
                             <label asp-for="ConformationPassword" class=" form-control">Conform Password</label>
-                            <input asp-for="ConformationPassword" class=" form-control" />
-                            <span asp-validation-for="ConformationPassword" class="text-danger" ></span>
+                            @Html.PasswordFor(model => model.Password, new { @class = "form-control", placeholder = "Conform your password" })
+                            <span asp-validation-for="ConformationPassword" class="text-danger"></span>
                         </div>
                         <br />
                         <div class="form-group">
@@ -55,3 +61,42 @@
         </div>
     </div>
 </div>
+
+
+<script>
+    const togglePassword = document.getElementById('togglePassword');
+    const passwordField = document.getElementById('Password');
+
+    togglePassword.addEventListener('click', function () {
+        const type = passwordField.getAttribute('type') === 'password' ? 'text' : 'password';
+        passwordField.setAttribute('type', type);
+        this.innerHTML = type === 'password' ? '<i class="fa fa-eye"></i>' : '<i class="fa fa-eye-slash"></i>';
+    });
+</script>
+<style>
+    .form-control {
+        padding-right: 40px;
+    }
+
+    .eye-toggle {
+        background: none;
+        border: none;
+        top: 50%;
+        right: 10px;
+        transform: translateY(-50%);
+        cursor: pointer;
+        color: #6c757d;
+    }
+
+        .eye-toggle:hover,
+        .eye-toggle:focus {
+            background: none;
+            border: none;
+            outline: none;
+            color: #6c757d;
+        }
+
+        .eye-toggle i {
+            font-size: 18px;
+        }
+</style>

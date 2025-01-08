@@ -17,10 +17,10 @@ namespace Lamazon.Web.Controllers
             _orderService = orderService;
         }
      
-
+        /*
         public IActionResult Dashboard()
         {
-            var orders = _orderService.GttAllOrders();
+            var orders = _orderService.GetAllOrders();
            
             var dashboardData = orders
                 .GroupBy(o => o.CreatedDate.Month)
@@ -36,6 +36,7 @@ namespace Lamazon.Web.Controllers
 
             return View(dashboardData);
         }
+        */
 
     }
 }

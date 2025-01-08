@@ -9,9 +9,9 @@ namespace Lamazon.Services.Interfaces
 {
     public interface IOrderService
     {
-        List<OrderVM> GttAllOrders();
+       
 
-        List<UserOrderVM> GetOrdersByUserId(int userId);
+        List<OrderVM> GetAllOrders(int userId);
         OrderVM GetOrderById(int id);
 
         void CreateOrder(CreateOrderViemModel model);

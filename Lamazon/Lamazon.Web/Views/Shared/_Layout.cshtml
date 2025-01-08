@@ -29,7 +29,7 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        @if (User.IsInRole("ADMIN"))
+                        @if (User.IsInRole("MENAGER"))
                         {
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-controller="ProductCategory" asp-action="Index">Product Categories</a>
@@ -48,7 +48,7 @@
                         @if (User.IsInRole("ADMIN"))
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="Index">AdminDashboard</a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="AllUsers">Users</a>
                             </li>
 
                         }

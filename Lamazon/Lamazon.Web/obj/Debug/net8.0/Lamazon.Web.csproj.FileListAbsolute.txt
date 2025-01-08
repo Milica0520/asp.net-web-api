@@ -157,3 +157,5 @@ C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.W
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Lamazon.AdminAPI.exe
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Lamazon.AdminAPI.dll
 C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Lamazon.AdminAPI.pdb
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\micad\OneDrive\Desktop\asp.net-course\asp.net-web-api\Lamazon\Lamazon.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

@@ -3,6 +3,7 @@ using Lamazon.Domain.Entities;
 using Lamazon.Services.Interfaces;
 using Lamazon.Services.ViewModels.Order;
 using Lamazon.Services.ViewModels.OrderItem;
+using Lamazon.Services.ViewModels.User;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -77,15 +78,34 @@ namespace Lamazon.Services.Implemetations
 
         public OrderVM GetOrderById(int id)
         {
-           throw new NotImplementedException(); 
+            Order order = _orderRepository.Get(id);
+
+            if (order == null)
+            {
+                return null;
+            }
+
+            return new OrderVM()
+            {
+                OrderNum = order.OrderNumber,
+                CreatedDate = order.OrderDate,
+                TotalPrice = order.TotalPrice,
+                User = new UserViewModel()
+                {
+                    FullName = order.User.FirstName + " " + order.User.LastName
+                }
+            };
         }
 
-        public List<UserOrderVM> GetOrdersByUserId(int userId)
+        public List<OrderVM> GetAllOrders(int userId)
         {
             return _orderRepository.GetAll()
+             
             .Where(o => o.UserId == userId)
-            .Select(o => new UserOrderVM
+            
+            .Select(o => new OrderVM
             {
+                
                 ID = o.Id,
                 CreatedDate = o.OrderDate,
                 OrderNum = o.OrderNumber,

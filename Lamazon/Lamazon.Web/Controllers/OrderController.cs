@@ -30,7 +30,7 @@ namespace Lamazon.Web.Controllers
             string userIdString = User.FindFirstValue(ClaimTypes.NameIdentifier);
             int userId = int.Parse(userIdString);
 
-            List<UserOrderVM> userOrders = _orderService.GetOrdersByUserId(userId);
+            List<OrderVM> userOrders = _orderService.GetAllOrders(userId);
 
             return View(userOrders);
         }

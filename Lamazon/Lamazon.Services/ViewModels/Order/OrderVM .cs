@@ -28,6 +28,8 @@ namespace Lamazon.Services.ViewModels.Order
 
         public decimal TotalPrice { get; set; }
 
+       public bool IsActive {  get; set; }  
+
         // Shipping Details
         public string? ShippingUserFullName { get; set; }
         public string? Address { get; set; }

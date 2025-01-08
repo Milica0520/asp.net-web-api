@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lamazon.AdminAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d91bad9270657e6da38e79fb74074f7110c810c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+505a920228ad3c81025e3466cc69c7d2e5a8e174")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lamazon.AdminAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lamazon.AdminAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
